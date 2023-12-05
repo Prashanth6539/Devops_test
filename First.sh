@@ -1,4 +1,6 @@
-#!/bin/bashecho "Enter a numner"read a
+#!/bin/bash
+
+echo "Enter a numner"read a
 
 echo "Enter a numner"read b
 
