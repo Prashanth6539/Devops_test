@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "Enter a number"
+echo "Enter  a First number"
 read a
 
-echo "Enter a number"
+echo "Enter a Second  number"
 read b
 
 var=$((a+b))
